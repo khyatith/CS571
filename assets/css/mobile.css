@@ -1,0 +1,44 @@
+body .ui-page
+{
+background-color:#D9853B;
+}
+#auto-style1 {
+text-align: center;
+display:inline-block;
+color:#663300;
+}
+ul.primary-menu.ui-listview  li.ui-first-child a.ui-btn {
+    color:#FDF3E7 !important;
+    background-color:transparent !important;
+    border-bottom:1px solid #f2e3ea !important;
+    background-image:none !important
+}
+ul.primary-menu1.ui-listiview li.ui-first-child a.ui-btn{
+color:#cc0000 !important;
+    background-color:#FDE8D7 !important;
+    border-bottom:1px solid #f2e3ea !important;
+    background-image:none !important
+}
+ul.primary-menu {
+    margin-top:10px;
+    border-top:none;
+}
+
+ul.primary-menu li a{
+    font-size: 1em;
+    line-height: 1.3;
+    color:#FDF3E7 !important;
+    font-family: 'ramblabold', Arial, sans-serif;
+    background-color:transparent !important;
+    border-bottom:1px solid #f2e3ea !important;
+    background-image:none !important
+
+}
+ui-navbar .ui-btn-text
+ {
+ 	font-size:10px;
+ }
+ 
+ 
+
+

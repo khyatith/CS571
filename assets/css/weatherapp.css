@@ -1,0 +1,27 @@
+body 
+{
+background-color:#CCFFFF;
+}
+.page-header
+{
+text-align:center;
+color:#E86850;
+}
+.navbar
+{
+background-color:#06eea9;
+border:0px
+}
+.form-actions
+{
+margin: 0;
+ background-color:transparent;
+ text-align: center;
+}
+.btn
+{
+background-color:#E86850;
+color:#ffffff;
+font-style:bold;
+font-size:1.5em;
+}
