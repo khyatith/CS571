@@ -9,3 +9,5 @@ This is the customer side of the website. Customers can browse through different
 Customers can signup and login and order cakes. They also have the option of viewing/editing their profile information. Also they can view their order history.
 
 I have used PHP,MYSQL,HTML,CSS,JAVASCRIPT,JQUERY and AJAX to create this website. I have created the responsive layout to be viewed on different mobile devices as well using JQUERY MOBILE. 
+
+I used an MVC framework , CodeIgniter to create this website.
